@@ -1,0 +1,4 @@
+include:
+  project: tt/groups/devops/united-ci-scripts
+  ref: master
+  file: seapp.yml
